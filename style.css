@@ -115,6 +115,9 @@ img{
     color: #ffffff;
     background-color: #3a96a0;
 }
+@media(max-width:480px) {
+    .header h1:25px;
+}
 
 
 
